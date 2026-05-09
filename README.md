@@ -3,7 +3,7 @@
 ## 📌 Introducción
 Este proyecto surge de la necesidad de evaluar cómo el crecimiento acelerado de la mancha urbana en el municipio de **San Juan del Río, Querétaro**, ha interactuado con las zonas de riesgo hídrico históricas. 
 
-Como profesional con experiencia en **ingeniería civil** y **sistemas de información geográfica (SIG)**, mi objetivo es documentar la evolución del territorio para proponer soluciones de resiliencia urbana fundamentadas en datos.
+Como profesional con experiencia en **sistemas de información geográfica (SIG)**, mi objetivo es documentar la evolución del territorio para proponer soluciones de resiliencia urbana fundamentadas en datos.
 
 ---
 
