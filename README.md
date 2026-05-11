@@ -35,4 +35,4 @@ San Juan del Río es un nodo industrial y logístico clave en el centro de Méxi
 
 ---
 **Autor:** Victor Hugo García Larios  
-*Consultor de Sistemas de Información (GIS) e Ingeniero Civil*
+*Consultor de Sistemas de Información (GIS) y Analista de Datos*
