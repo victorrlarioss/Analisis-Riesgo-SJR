@@ -41,5 +41,18 @@ San Juan del Río es un nodo logístico clave en el centro de México. Su ubicac
 * **Toma de Decisiones:** Proporcionar una herramienta visual (visor) para la planeación urbana y la gestión de infraestructura civil.
 
 ---
+## 🔗 Demo Interactiva
+Puedes explorar el mapa interactivo de riesgos hídricos en el siguiente enlace:
+👉 **[Ver Visor de Riesgo SJR - GEMCLU](https://analisis-riesgo-sjr.onrender.com)**
+
+---
+## 🏁 Conclusiones y Recomendaciones
+Tras el análisis geoespacial realizado, se concluye que la vulnerabilidad hídrica en las zonas de expansión de San Juan del Río se ve agravada por la acumulación de residuos en la infraestructura pluvial. 
+
+Se sugiere priorizar programas de **limpieza de drenajes y mantenimiento de vialidades** siguiendo el nivel de criticidad mostrado en el **mapa interactivo**. La eliminación proactiva de basura y desechos en los puntos de mayor riesgo podría reducir significativamente la probabilidad de inundaciones por obstrucción, protegiendo así la integridad de las zonas habitacionales e industriales analizadas.
+
+---
+
 **Autor:** Victor Hugo García Larios  
 *Consultor SIG | Junior Data Analyst |*
+
