@@ -1,14 +1,14 @@
 # 🌊 Análisis de Riesgo Hídrico y Expansión Urbana en San Juan del Río, Qro.
 
 ## 📌 Introducción
-Este proyecto surge de la necesidad de evaluar cómo el crecimiento acelerado de la mancha urbana en el municipio de **San Juan del Río, Querétaro**, ha interactuado con las zonas de riesgo hídrico históricas. 
+Este proyecto evalúa la interacción entre el crecimiento acelerado de la mancha urbana en **San Juan del Río, Querétaro**, y las zonas de riesgo hídrico históricas. 
 
-Como profesional con experiencia en **sistemas de información geográfica (SIG)**, mi objetivo es documentar la evolución del territorio para proponer soluciones de resiliencia urbana fundamentadas en datos.
+Como profesional en transición hacia el **Análisis de Datos** con una sólida base en **y SIG**, este trabajo documenta la evolución del territorio mediante herramientas computacionales para proponer soluciones de resiliencia urbana fundamentadas en evidencia.
 
 ---
 
 ## 🗺️ Contexto del Área de Estudio
-San Juan del Río es un nodo industrial y logístico clave en el centro de México. Sin embargo, su ubicación en la cuenca del **Río San Juan** lo hace vulnerable a inundaciones recurrentes. Este análisis se centra particularmente en las zonas de expansión industrial y habitacional que han modificado el relieve y los escurrimientos naturales en los últimos años (ej. zona de Valle de Oro).
+San Juan del Río es un nodo logístico clave en el centro de México. Su ubicación en la cuenca del **Río San Juan** lo hace vulnerable a inundaciones recurrentes. Este análisis pone especial énfasis en las zonas donde la expansión industrial y habitacional ha modificado los escurrimientos naturales, incrementando el riesgo en áreas críticas como la zona de Valle de Oro.
 
 ---
 
@@ -16,23 +16,30 @@ San Juan del Río es un nodo industrial y logístico clave en el centro de Méxi
 
 | Categoría | Herramientas / Fuentes |
 | :--- | :--- |
-| **Software SIG** | QGIS, ArcGIS Pro |
-| **Lenguajes** | Python (Pandas, GeoPandas, Matplotlib) |
-| **Fuentes de Datos** | INEGI (DEM, Cartografía), DENUE, Atlas de Riesgos Qro. |
-| **Análisis** | Modelado de escorrentías, Análisis multitemporal |
+| **Análisis de Datos** | Python (Pandas, GeoPandas, Matplotlib) |
+| **Entorno de Trabajo** | Jupyter Notebooks, VS Code |
+| **Sistemas SIG** | ArcGIS Pro / QGIS |
+| **Fuentes de Datos** | INEGI (DEM), DENUE, Atlas de Riesgos Municipal |
+| **Despliegue** | Render (Hosting del Visor Interactivo) |
 
 ### Metodología de Trabajo:
-1. **Extracción:** Obtención de Modelos Digitales de Elevación (DEM) y capas vectoriales.
-2. **Procesamiento:** Limpieza de datos tabulares y espaciales con Python.
-3. **Análisis:** Superposición de capas de inundación sobre polígonos de expansión urbana.
+1. **Extracción y Limpieza:** Procesamiento de Modelos Digitales de Elevación (DEM) y bases de datos del DENUE mediante Python.
+2. **Geoprocesamiento:** Delimitación de cuencas y áreas de inundación utilizando librerías espaciales.
+3. **Visualización:** Generación de un visor cartográfico interactivo en formato HTML para facilitar la interpretación de datos no técnicos.
+
+---
+
+## 📂 Estructura del Repositorio
+* **`Analisis_Riesgo_Hidrico_SJR.ipynb`**: Notebook detallado con el proceso de limpieza, análisis de datos y generación de visualizaciones.
+* **`Visor_Riesgo_SJR_GEMCLU.html`**: Mapa interactivo que permite explorar las zonas de riesgo y la infraestructura afectada.
 
 ---
 
 ## 📈 Objetivos del Proyecto
-* **Mapeo Histórico:** Visualizar la expansión de la mancha urbana en periodos clave.
-* **Identificación de Riesgos:** Superponer áreas inundables con zonas habitacionales e infraestructura crítica.
-* **Propuestas Técnicas:** Generar recomendaciones basadas en datos para la planeación de futuras obras de infraestructura civil.
+* **Mapeo de Vulnerabilidad:** Identificar la superposición de zonas habitacionales con áreas inundables.
+* **Análisis Geoespacial:** Utilizar Python para automatizar la identificación de infraestructura crítica en riesgo.
+* **Toma de Decisiones:** Proporcionar una herramienta visual (visor) para la planeación urbana y la gestión de infraestructura civil.
 
 ---
 **Autor:** Victor Hugo García Larios  
-*Consultor de Sistemas de Información (GIS) y Analista de Datos*
+*Consultor SIG | Junior Data Analyst |*
