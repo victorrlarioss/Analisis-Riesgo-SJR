@@ -3,7 +3,7 @@
 ## 📌 Introducción
 Este proyecto evalúa la interacción entre el crecimiento acelerado de la mancha urbana en **San Juan del Río, Querétaro**, y las zonas de riesgo hídrico históricas. 
 
-Como profesional en transición hacia el **Análisis de Datos** con una sólida base en ** SIG**, este trabajo documenta la evolución del territorio mediante herramientas computacionales para proponer soluciones de resiliencia urbana fundamentadas en evidencia.
+Como profesional en transición hacia el **Análisis de Datos** con una sólida base en **SIG**, este trabajo documenta la evolución del territorio mediante herramientas computacionales para proponer soluciones de resiliencia urbana fundamentadas en evidencia.
 
 ---
 
